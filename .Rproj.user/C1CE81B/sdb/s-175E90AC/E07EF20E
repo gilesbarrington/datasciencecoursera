@@ -1,0 +1,16 @@
+{
+    "contents" : "New Rmarkdown file\n========================================================\n##sub heading\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring web pages (click the **Help** toolbar button for more details on using R Markdown).\n\nWhen you click the **Knit HTML** button a web page will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\n```r\nsummary(cars)\n```\n\n```\n##      speed           dist    \n##  Min.   : 4.0   Min.   :  2  \n##  1st Qu.:12.0   1st Qu.: 26  \n##  Median :15.0   Median : 36  \n##  Mean   :15.4   Mean   : 43  \n##  3rd Qu.:19.0   3rd Qu.: 56  \n##  Max.   :25.0   Max.   :120\n```\n\n\nYou can also embed plots, for example:\n\n\n```r\nplot(cars)\n```\n\n![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) \n\n\n",
+    "created" : 1398147999164.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3216407682",
+    "id" : "E07EF20E",
+    "lastKnownWriteTime" : 1398148050,
+    "path" : "C:/Users/Giles/datasciencecoursera/new rmarkdown.md",
+    "project_path" : "new rmarkdown.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
